@@ -22,6 +22,9 @@ This project was built using:
 - **Visualization**: Matplotlib, Seaborn
 - **Others**: tqdm, os
 
+And
+- **Datasets**: [RAF-DB DATASET](https://www.kaggle.com/datasets/shuvoalok/raf-db-dataset)
+
 ## Setup Instructions
 
 ### 1. Clone the repository
@@ -57,3 +60,6 @@ Once dependencies are installed, you can launch the Streamlit app using:
 ```bash
 streamlit run src/app.py
 ```
+
+---
+## Demo
