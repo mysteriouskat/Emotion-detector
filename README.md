@@ -2,8 +2,6 @@
 
 A deep learning-based application that detects human emotions from facial expressions using a webcam feed. This project utilizes facial detection and a convolutional neural network (CNN) to classify emotions in real time, displayed through a Streamlit web interface.
 
----
-
 ## Features
 
 - Real-time emotion detection from webcam using `cv2` and `MTCNN`
@@ -11,8 +9,6 @@ A deep learning-based application that detects human emotions from facial expres
 - Web interface built with Streamlit
 - Model training and evaluation using scikit-learn
 - Visualization and analytics using matplotlib, seaborn
-
----
 
 ## Tech Stack
 
@@ -22,11 +18,9 @@ This project was built using:
 - **Deep Learning**: TensorFlow, Keras
 - **Computer Vision**: OpenCV, MTCNN, PIL
 - **Data Processing**: Pandas, NumPy
-- **Machine Learning Utilities**: Scikit-learn, joblib
+- **Machine Learning Utilities**: Scikit-learn
 - **Visualization**: Matplotlib, Seaborn
 - **Others**: tqdm, os
-
----
 
 ## Setup Instructions
 
@@ -63,6 +57,5 @@ Once dependencies are installed, you can launch the Streamlit app using:
 ```bash
 streamlit run src/app.py
 ```
-- You want to mention **dataset source** or **model architecture** used
 
 I'll update accordingly.
