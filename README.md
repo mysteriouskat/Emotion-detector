@@ -63,3 +63,5 @@ streamlit run src/app.py
 
 ---
 ## Demo
+
+![Demo](demo.gif)
