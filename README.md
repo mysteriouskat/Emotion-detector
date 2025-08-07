@@ -57,5 +57,3 @@ Once dependencies are installed, you can launch the Streamlit app using:
 ```bash
 streamlit run src/app.py
 ```
-
-I'll update accordingly.
