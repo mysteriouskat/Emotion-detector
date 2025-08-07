@@ -61,7 +61,6 @@ Once dependencies are installed, you can launch the Streamlit app using:
 streamlit run src/app.py
 ```
 
----
 ## Demo
 
 ![Demo](demo.gif)
